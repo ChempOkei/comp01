@@ -1,0 +1,138 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #0F1523;
+    color: #8B949E;
+    
+}
+.nav_menu{
+    list-style: none;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: #1A2238;
+
+
+    
+}
+.nav_menu li{
+    padding: 5px;
+
+    
+}
+.nav_menu a{
+    background-color: #8B949E;
+    margin-top: 5px;
+  
+}
+
+
+h2{
+    color:#FFFFFF;
+}
+
+
+.slider__items{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.slider__items button{
+    background-color: #FF6B35;
+    color: #FFFFFF;
+    height: 50px;
+    border-radius: 15px;
+
+}
+.slider_item{
+    text-align: center;
+    padding: 10px;
+    background:#1A2238 ;
+    border-radius: 15px;
+
+}
+/* Поиск */
+.search{
+    text-align: center;
+    
+}
+
+.search input{
+    height: 50px;
+    width: 1300px;
+    border-radius: 25px;
+}
+
+.search button{
+    background-color: #FF6B35;
+    color: #FFFFFF;
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+}
+
+/* Преимущества */
+.infographics_items div{
+    background:#1A2238 ;
+    border-radius: 15px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+
+}
+
+.infographics_item p{
+    margin: 10px;
+    font-size: 16px;
+}
+
+.infographics_items{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Популярные игры */
+
+.card_items{
+
+    display: flex;
+    justify-content: space-between;
+}
+.card_item{
+    text-align: center;
+    padding: 10px;
+    background:#1A2238 ;
+    border-radius: 15px;
+}
+
+
+
+.slider_img{
+    height: 100px;
+    border-radius: 15px;
+    
+}
+.img_card{
+
+    height: 100px;
+}
+.partner_img{
+    height: 100px;
+}
+
+
+footer{
+    background-color: #1A2238;
+    justify-content: space-between;
+}
+
+
+/* Авторизация */
+
+
+
